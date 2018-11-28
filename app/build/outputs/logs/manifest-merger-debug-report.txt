@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7ca645e5f9f86b362ca5a1878fc7f6ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aeb087f825402b8ca3c76dcfd732d756/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f01728cec3d1de13e7e286c88baa38a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f610a8cd8b711a6297df7ce5b83c8e40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/48955bf365aa267416e972abca5f3d89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1f634c90d1d9fd6cca6e24db898fb325/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/528b03a4e7f6e200b31f7e3e1274988e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e66ed99aefff1a333c73142c0a2b81c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c7263b706f935d540f2c8f6065003f58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/acee6f0537f496aa26a9764834ab7289/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b63b496876e5386238aa361c05b12057/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00a1332f22dca928acd54104f0f879e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ccbdf8ef3e8195fc796808fcf799d20e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e516daacb30b4d99ed4e37baacf9119/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c1e31be87d6a401210cbc2965ca01c30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5ac1c8b998ac184e29e412a4da126a37/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0a0c954246628b2b57eec9de96fc4fcf/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3e83c91986d2fd87f8865fd2ee451b00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ed6d41f006d753077e4e4a7435b04d46/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e2a00a180ca8ec9cf5c4e963a0f820f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fbc56b53a8249ac5fff08311f21a127e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e45db18f81d495ddac89342fb4ed3886/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fcd8c4fb023b05091c0a0e847ad6347a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/514212a540a35dbc685ccc4f176cf586/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3966d0143542a9f8cf9e00650eb39498/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fc82257550f2438641dea99fc9d7030c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dd78743202712ab04cf24c9433f355a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/95f750832b07d4c884ebac9dcfcbb5df/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aeb087f825402b8ca3c76dcfd732d756/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aeb087f825402b8ca3c76dcfd732d756/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5ac1c8b998ac184e29e412a4da126a37/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5ac1c8b998ac184e29e412a4da126a37/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0a0c954246628b2b57eec9de96fc4fcf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0a0c954246628b2b57eec9de96fc4fcf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5ac1c8b998ac184e29e412a4da126a37/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:11:9-28
+activity#ru.alexbykov.mvpsample.main.ui.MainActivity
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:18:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:22:27-74
+activity#ru.alexbykov.mvpsample.profile.mvp.ProfileActivity
+ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:25:9-74
+	android:name
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml:25:19-62
+uses-sdk
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7ca645e5f9f86b362ca5a1878fc7f6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7ca645e5f9f86b362ca5a1878fc7f6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aeb087f825402b8ca3c76dcfd732d756/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aeb087f825402b8ca3c76dcfd732d756/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f01728cec3d1de13e7e286c88baa38a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f01728cec3d1de13e7e286c88baa38a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f610a8cd8b711a6297df7ce5b83c8e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f610a8cd8b711a6297df7ce5b83c8e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/48955bf365aa267416e972abca5f3d89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/48955bf365aa267416e972abca5f3d89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1f634c90d1d9fd6cca6e24db898fb325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1f634c90d1d9fd6cca6e24db898fb325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/528b03a4e7f6e200b31f7e3e1274988e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/528b03a4e7f6e200b31f7e3e1274988e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e66ed99aefff1a333c73142c0a2b81c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e66ed99aefff1a333c73142c0a2b81c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c7263b706f935d540f2c8f6065003f58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c7263b706f935d540f2c8f6065003f58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/acee6f0537f496aa26a9764834ab7289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/acee6f0537f496aa26a9764834ab7289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b63b496876e5386238aa361c05b12057/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b63b496876e5386238aa361c05b12057/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00a1332f22dca928acd54104f0f879e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00a1332f22dca928acd54104f0f879e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ccbdf8ef3e8195fc796808fcf799d20e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ccbdf8ef3e8195fc796808fcf799d20e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e516daacb30b4d99ed4e37baacf9119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e516daacb30b4d99ed4e37baacf9119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c1e31be87d6a401210cbc2965ca01c30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c1e31be87d6a401210cbc2965ca01c30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5ac1c8b998ac184e29e412a4da126a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5ac1c8b998ac184e29e412a4da126a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0a0c954246628b2b57eec9de96fc4fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0a0c954246628b2b57eec9de96fc4fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3e83c91986d2fd87f8865fd2ee451b00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3e83c91986d2fd87f8865fd2ee451b00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ed6d41f006d753077e4e4a7435b04d46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ed6d41f006d753077e4e4a7435b04d46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e2a00a180ca8ec9cf5c4e963a0f820f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e2a00a180ca8ec9cf5c4e963a0f820f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fbc56b53a8249ac5fff08311f21a127e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fbc56b53a8249ac5fff08311f21a127e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e45db18f81d495ddac89342fb4ed3886/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e45db18f81d495ddac89342fb4ed3886/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fcd8c4fb023b05091c0a0e847ad6347a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fcd8c4fb023b05091c0a0e847ad6347a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/514212a540a35dbc685ccc4f176cf586/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/514212a540a35dbc685ccc4f176cf586/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3966d0143542a9f8cf9e00650eb39498/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3966d0143542a9f8cf9e00650eb39498/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fc82257550f2438641dea99fc9d7030c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fc82257550f2438641dea99fc9d7030c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dd78743202712ab04cf24c9433f355a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dd78743202712ab04cf24c9433f355a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/95f750832b07d4c884ebac9dcfcbb5df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/95f750832b07d4c884ebac9dcfcbb5df/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexbykov/Documents/CodeMVP/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/alexbykov/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/8f8c02dcecd6ca11a7e2841cf9bc1cc4/AndroidManifest.xml:9:13-64

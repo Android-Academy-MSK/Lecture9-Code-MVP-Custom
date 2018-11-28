@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVPSample</string>
+    <string name="open_user">Open User</string>
+    <string name="open_user_empty">Open Empty User</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_unknown">No information</string>
+    <string name="field_unknown">No information</string>
+
+    <string name="label_name">Name</string>
+    <string name="label_second_name">Second name</string>
+    <string name="label_about">About</string>
+    <string name="label_job_title">Job position</string>
+    <string name="label_gender">Gender</string>
+</resources>
